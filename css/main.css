@@ -1,0 +1,22 @@
+.btn-extended {
+  width: 100%;
+}
+.navbar {
+  margin-bottom: 0 !important;
+}
+
+.section-contact {
+  position: relative;
+}
+.section-contact .card-panel {
+  position: relative;
+  z-index: 1;
+}
+#map {
+  position: absolute;
+  height: 100%; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
